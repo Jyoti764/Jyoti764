@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hello, nerds 👋
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+I'm Jyoti Prakash. A Web Developer and a Competitive coder from Guwahati. I am currently pursuing B.Tech in Computer Science and Engineering from NIT Silchar.
+     <br><br>Contact me on <a href="https://twitter.com/JyotiPr80706250">Twitter</a>, <a href="https://www.linkedin.com/in/jyoti-prakash-borah-a05308202/">Linkedin</a>
+  </samp>
+</p>
 
 <!--
-**Jyoti764/Jyoti764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
